@@ -14,4 +14,37 @@ class TodoCliTest < Minitest::Test
       TodoCli.new(["new", "i am a task"])
     end
   end
+
+  def test_that_task_can_be_created
+
+  end
+
+  def test_that_task_was_updated
+
+  end
+
+  def test_that_task_can_be_marked_complete
+
+  end
+
+  def test_that_task_list_can_be_seen
+
+  end
+
+  def test_will_create_database_table
+
+  end
+
+  def test_will_interpret_cli_commands
+
+  end
+
+  def test_will_verify_associations
+
+  end
+
+  def test_will_validate_records
+
+  end
+
 end
